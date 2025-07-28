@@ -24,7 +24,7 @@ public class Login extends JFrame implements ActionListener {
 
     Login() {
 
-        JLabel namelabel = new JLabel("UserName");
+        JLabel namelabel = new JLabel("Username");
         namelabel.setBounds(40, 20, 100, 30);
         namelabel.setFont(new Font("Tahoma", Font.BOLD, 16));
         namelabel.setForeground(Color.BLACK);
